@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Meu Site</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<!--Texto -->
+	<p lang="pt-BR">
+		Quem <strong>nunca errou nunca experimentou nada </strong> novo
+   </p>
+   <!--Imagem-->
+	  <img src="LogoNewton.jpg"
+    alt="Logo do Site"/> 
+	<script src="script.js">
+	</script>
+</body>
+
+</html>
